@@ -1,2 +1,4 @@
-# odin-recipes
-Lesson Exercise for Odin Project Foundations
+# Odin Recipes
+
+I am practicing my HTML skills with Odin Recipes project.
+
